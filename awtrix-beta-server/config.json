@@ -9,6 +9,7 @@
   "map": ["config:rw"],
   "ingress": true,
   "boot": "auto",
+  "init": false,
   "panel_icon": "mdi:solar-panel-large",
   "uart": false,
   "ports": {
